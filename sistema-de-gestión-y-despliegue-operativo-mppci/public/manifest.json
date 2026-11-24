@@ -1,0 +1,24 @@
+{
+  "name": "Sistema de Gestión y Despliegue Operativo VSCC - MIPPCI",
+  "short_name": "SGDO VSCC",
+  "description": "Plataforma centralizada de inteligencia de datos, captura, validación y monitoreo situacional de la Vicepresidencia Sectorial de Comunicación y Cultura",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/logos/LOGOTIPO VSCC_V1-VSCC.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logos/LOGOTIPO VSCC_V1-VSCC.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

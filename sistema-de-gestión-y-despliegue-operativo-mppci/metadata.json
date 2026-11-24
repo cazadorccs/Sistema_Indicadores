@@ -1,0 +1,7 @@
+{
+  "name": "Sistema de Gestión y Despliegue Operativo MPPCI",
+  "description": "Plataforma centralizada de inteligencia de datos, captura, validación, procesamiento y visualización de indicadores comunicacionales y despliegue operativo del MPPCI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

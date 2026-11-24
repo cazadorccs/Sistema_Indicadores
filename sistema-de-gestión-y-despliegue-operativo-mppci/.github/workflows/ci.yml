@@ -1,0 +1,41 @@
+name: SGDO-VSCC Integracion Continua y Puertas de Calidad
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  quality-gate:
+    name: Verificación Estricta y Suites de Prueba
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [22.x]
+
+    steps:
+      - name: Descargar Código Fuente
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+
+      - name: Instalar Dependencias
+        run: npm ci
+
+      - name: Inicializar Directorio de Persistencia Local
+        run: mkdir -p backend/data
+
+      - name: Verificación Estricta TypeScript (Zero Errors)
+        run: npm run lint
+
+      - name: Ejecución de Suites Automatizadas (Tests Unitarios, Criptografía, Integración)
+        run: npm test
+
+      - name: Compilación de Producción (Vite + esbuild)
+        run: npm run build

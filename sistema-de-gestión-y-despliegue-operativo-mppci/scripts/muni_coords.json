@@ -1,0 +1,2690 @@
+{
+  "1001": {
+    "name": "Municipio Antonio Diaz",
+    "capital": "Curiapo",
+    "lat": 8.7349,
+    "lng": -60.7004,
+    "codEnt": "10",
+    "codMun": "01"
+  },
+  "1002": {
+    "name": "Municipio Casacoima",
+    "capital": "Sierra Imataca",
+    "lat": 8.552,
+    "lng": -62.3444,
+    "codEnt": "10",
+    "codMun": "02"
+  },
+  "1003": {
+    "name": "Municipio Pedernales",
+    "capital": "Pedernales",
+    "lat": 9.8645,
+    "lng": -62.0563,
+    "codEnt": "10",
+    "codMun": "03"
+  },
+  "1004": {
+    "name": "Municipio Tucupita",
+    "capital": "Tucupita",
+    "lat": 9.6703,
+    "lng": -61.5409,
+    "codEnt": "10",
+    "codMun": "04"
+  },
+  "1101": {
+    "name": "Municipio Acosta",
+    "capital": "San Juan de Los Cayos",
+    "lat": 11.1728,
+    "lng": -68.5026,
+    "codEnt": "11",
+    "codMun": "01"
+  },
+  "1102": {
+    "name": "Municipio BolÃƒÂ­var",
+    "capital": "San Luis",
+    "lat": 11.0714,
+    "lng": -69.7252,
+    "codEnt": "11",
+    "codMun": "02"
+  },
+  "1103": {
+    "name": "Municipio Buchivacoa",
+    "capital": "CapatÃƒÂ¡rida",
+    "lat": 11.0394,
+    "lng": -70.5904,
+    "codEnt": "11",
+    "codMun": "03"
+  },
+  "1104": {
+    "name": "Municipio Cacique Manaure",
+    "capital": "Yaracal",
+    "lat": 10.9323,
+    "lng": -68.5347,
+    "codEnt": "11",
+    "codMun": "04"
+  },
+  "1105": {
+    "name": "Municipio Carirubana",
+    "capital": "Punto Fijo",
+    "lat": 11.6552,
+    "lng": -70.0404,
+    "codEnt": "11",
+    "codMun": "05"
+  },
+  "1106": {
+    "name": "Municipio Colina",
+    "capital": "La Vela de Coro",
+    "lat": 11.3507,
+    "lng": -69.4967,
+    "codEnt": "11",
+    "codMun": "06"
+  },
+  "1107": {
+    "name": "Municipio Dabajuro",
+    "capital": "Dabajuro",
+    "lat": 10.8179,
+    "lng": -70.5964,
+    "codEnt": "11",
+    "codMun": "07"
+  },
+  "1108": {
+    "name": "Municipio Democracia",
+    "capital": "Pedregal",
+    "lat": 10.8084,
+    "lng": -70.1895,
+    "codEnt": "11",
+    "codMun": "08"
+  },
+  "1109": {
+    "name": "Municipio FalcÃƒÂ³n",
+    "capital": "Pueblo Nuevo",
+    "lat": 11.9489,
+    "lng": -69.9378,
+    "codEnt": "11",
+    "codMun": "09"
+  },
+  "1110": {
+    "name": "Municipio FederaciÃƒÂ³n",
+    "capital": "Churuguara",
+    "lat": 10.8429,
+    "lng": -69.5016,
+    "codEnt": "11",
+    "codMun": "10"
+  },
+  "1111": {
+    "name": "Municipio Jacura",
+    "capital": "Jacura",
+    "lat": 10.9361,
+    "lng": -68.8843,
+    "codEnt": "11",
+    "codMun": "11"
+  },
+  "1112": {
+    "name": "Municipio Los Taques",
+    "capital": "Santa Cruz de Los Taques",
+    "lat": 11.8011,
+    "lng": -70.2449,
+    "codEnt": "11",
+    "codMun": "12"
+  },
+  "1113": {
+    "name": "Municipio Mauroa",
+    "capital": "Mene de Mauroa",
+    "lat": 10.7769,
+    "lng": -71.0698,
+    "codEnt": "11",
+    "codMun": "13"
+  },
+  "1114": {
+    "name": "Municipio Miranda",
+    "capital": "Santa Ana de Coro",
+    "lat": 11.4465,
+    "lng": -69.9723,
+    "codEnt": "11",
+    "codMun": "14"
+  },
+  "1115": {
+    "name": "Municipio MonseÃƒÂ±or Iturriza",
+    "capital": "Chichiriviche",
+    "lat": 10.888,
+    "lng": -68.5693,
+    "codEnt": "11",
+    "codMun": "15"
+  },
+  "1116": {
+    "name": "Municipio Palmasola",
+    "capital": "Palmasola",
+    "lat": 10.7435,
+    "lng": -68.5479,
+    "codEnt": "11",
+    "codMun": "16"
+  },
+  "1117": {
+    "name": "Municipio Petit",
+    "capital": "Cabure",
+    "lat": 11.0288,
+    "lng": -69.3855,
+    "codEnt": "11",
+    "codMun": "17"
+  },
+  "1118": {
+    "name": "Municipio PÃƒÂ­ritu",
+    "capital": "PÃƒÂ­ritu",
+    "lat": 11.3934,
+    "lng": -68.9767,
+    "codEnt": "11",
+    "codMun": "18"
+  },
+  "1119": {
+    "name": "Municipio San Francisco",
+    "capital": "Mirimire",
+    "lat": 11.1175,
+    "lng": -68.6502,
+    "codEnt": "11",
+    "codMun": "19"
+  },
+  "1120": {
+    "name": "Municipio Silva",
+    "capital": "Tucacas",
+    "lat": 10.8241,
+    "lng": -68.3234,
+    "codEnt": "11",
+    "codMun": "20"
+  },
+  "1121": {
+    "name": "Municipio Sucre",
+    "capital": "La Cruz de Taratara",
+    "lat": 10.9684,
+    "lng": -69.8193,
+    "codEnt": "11",
+    "codMun": "21"
+  },
+  "1122": {
+    "name": "Municipio TocÃƒÂ³pero",
+    "capital": "TocÃƒÂ³pero",
+    "lat": 11.5134,
+    "lng": -69.2377,
+    "codEnt": "11",
+    "codMun": "22"
+  },
+  "1123": {
+    "name": "Municipio UniÃƒÂ³n",
+    "capital": "Santa Cruz de Bucaral",
+    "lat": 10.8269,
+    "lng": -69.1795,
+    "codEnt": "11",
+    "codMun": "23"
+  },
+  "1125": {
+    "name": "Municipio Zamora",
+    "capital": "Puerto Cumarebo",
+    "lat": 11.3262,
+    "lng": -69.3368,
+    "codEnt": "11",
+    "codMun": "25"
+  },
+  "1201": {
+    "name": "Municipio CamaguÃƒÂ¡n",
+    "capital": "CamaguÃƒÂ¡n",
+    "lat": 8.1584,
+    "lng": -67.5064,
+    "codEnt": "12",
+    "codMun": "01"
+  },
+  "1202": {
+    "name": "Municipio Chaguaramas",
+    "capital": "Chaguaramas",
+    "lat": 9.3392,
+    "lng": -66.3857,
+    "codEnt": "12",
+    "codMun": "02"
+  },
+  "1203": {
+    "name": "Municipio El Socorro",
+    "capital": "El Socorro",
+    "lat": 8.4065,
+    "lng": -65.6336,
+    "codEnt": "12",
+    "codMun": "03"
+  },
+  "1204": {
+    "name": "Municipio San GerÃƒÂ³nimo de Guayabal",
+    "capital": "Guayabal",
+    "lat": 8.0255,
+    "lng": -67.0424,
+    "codEnt": "12",
+    "codMun": "04"
+  },
+  "1205": {
+    "name": "Municipio Leonardo Infante",
+    "capital": "Valle de La Pascua",
+    "lat": 8.4227,
+    "lng": -66.0225,
+    "codEnt": "12",
+    "codMun": "05"
+  },
+  "1206": {
+    "name": "Municipio Las Mercedes",
+    "capital": "Las Mercedes",
+    "lat": 8.2695,
+    "lng": -66.4213,
+    "codEnt": "12",
+    "codMun": "06"
+  },
+  "1207": {
+    "name": "Municipio JuliÃƒÂ¡n Mellado",
+    "capital": "El Sombrero",
+    "lat": 9.4089,
+    "lng": -67.0707,
+    "codEnt": "12",
+    "codMun": "07"
+  },
+  "1208": {
+    "name": "Municipio Francisco de Miranda",
+    "capital": "Calabozo",
+    "lat": 8.6773,
+    "lng": -67.5879,
+    "codEnt": "12",
+    "codMun": "08"
+  },
+  "1209": {
+    "name": "Municipio JosÃƒÂ© Tadeo Monagas",
+    "capital": "Altagracia de Orituco",
+    "lat": 9.5704,
+    "lng": -66.4266,
+    "codEnt": "12",
+    "codMun": "09"
+  },
+  "1210": {
+    "name": "Municipio OrtÃƒÂ­z",
+    "capital": "OrtÃƒÂ­z",
+    "lat": 9.5892,
+    "lng": -67.7684,
+    "codEnt": "12",
+    "codMun": "10"
+  },
+  "1211": {
+    "name": "Municipio JosÃƒÂ© FÃƒÂ©lix Ribas",
+    "capital": "Tucupido",
+    "lat": 9.3535,
+    "lng": -65.8375,
+    "codEnt": "12",
+    "codMun": "11"
+  },
+  "1212": {
+    "name": "Municipio Juan GermÃƒÂ¡n Roscio",
+    "capital": "San Juan de Los Morros",
+    "lat": 9.8203,
+    "lng": -67.2762,
+    "codEnt": "12",
+    "codMun": "12"
+  },
+  "1213": {
+    "name": "Municipio San JosÃƒÂ© de Guaribe",
+    "capital": "San JosÃƒÂ© de Guaribe",
+    "lat": 9.7994,
+    "lng": -65.8647,
+    "codEnt": "12",
+    "codMun": "13"
+  },
+  "1214": {
+    "name": "Municipio Santa MarÃƒÂ­a de Ipire",
+    "capital": "Santa MarÃƒÂ­a de Ipire",
+    "lat": 8.5761,
+    "lng": -65.2489,
+    "codEnt": "12",
+    "codMun": "14"
+  },
+  "1215": {
+    "name": "Municipio Pedro Zaraza",
+    "capital": "Zaraza",
+    "lat": 9.0877,
+    "lng": -65.1019,
+    "codEnt": "12",
+    "codMun": "15"
+  },
+  "1301": {
+    "name": "Municipio AndrÃƒÂ©s Eloy Blanco",
+    "capital": "Sanare",
+    "lat": 9.6538,
+    "lng": -69.5014,
+    "codEnt": "13",
+    "codMun": "01"
+  },
+  "1302": {
+    "name": "Municipio Crespo",
+    "capital": "Duaca",
+    "lat": 10.3417,
+    "lng": -69.19,
+    "codEnt": "13",
+    "codMun": "02"
+  },
+  "1303": {
+    "name": "Municipio Iribarren",
+    "capital": "Barquisimeto",
+    "lat": 10.0894,
+    "lng": -69.363,
+    "codEnt": "13",
+    "codMun": "03"
+  },
+  "1304": {
+    "name": "Municipio JimÃƒÂ©nez",
+    "capital": "QuÃƒÂ­bor",
+    "lat": 9.8939,
+    "lng": -69.6189,
+    "codEnt": "13",
+    "codMun": "04"
+  },
+  "1305": {
+    "name": "Municipio MorÃƒÂ³n",
+    "capital": "El Tocuyo",
+    "lat": 9.5165,
+    "lng": -69.8505,
+    "codEnt": "13",
+    "codMun": "05"
+  },
+  "1306": {
+    "name": "Municipio Palavecino",
+    "capital": "Cabudare",
+    "lat": 9.9945,
+    "lng": -69.2549,
+    "codEnt": "13",
+    "codMun": "06"
+  },
+  "1307": {
+    "name": "Municipio SimÃƒÂ³n Planas",
+    "capital": "Sarare",
+    "lat": 9.7743,
+    "lng": -69.1368,
+    "codEnt": "13",
+    "codMun": "07"
+  },
+  "1308": {
+    "name": "Municipio Torres",
+    "capital": "Carora",
+    "lat": 10.1795,
+    "lng": -70.1865,
+    "codEnt": "13",
+    "codMun": "08"
+  },
+  "1309": {
+    "name": "Municipio Urdaneta",
+    "capital": "Siquisique",
+    "lat": 10.5899,
+    "lng": -69.5423,
+    "codEnt": "13",
+    "codMun": "09"
+  },
+  "1401": {
+    "name": "Municipio Alberto Adriani",
+    "capital": "El VigÃƒÂ­a",
+    "lat": 8.6181,
+    "lng": -71.7821,
+    "codEnt": "14",
+    "codMun": "01"
+  },
+  "1402": {
+    "name": "Municipio AndrÃƒÂ©s Bello",
+    "capital": "La Azulita",
+    "lat": 8.6978,
+    "lng": -71.3918,
+    "codEnt": "14",
+    "codMun": "02"
+  },
+  "1403": {
+    "name": "Municipio Antonio Pinto Salinas",
+    "capital": "Santa Cruz de Mora",
+    "lat": 8.4004,
+    "lng": -71.6338,
+    "codEnt": "14",
+    "codMun": "03"
+  },
+  "1404": {
+    "name": "Municipio Aricagua",
+    "capital": "Aricagua",
+    "lat": 8.0978,
+    "lng": -71.1516,
+    "codEnt": "14",
+    "codMun": "04"
+  },
+  "1405": {
+    "name": "Municipio Arzobispo ChacÃƒÂ³n",
+    "capital": "CanaguÃƒÂ¡",
+    "lat": 8.1092,
+    "lng": -71.3994,
+    "codEnt": "14",
+    "codMun": "05"
+  },
+  "1406": {
+    "name": "Municipio Campo ElÃƒÂ­as",
+    "capital": "Ejido",
+    "lat": 8.513,
+    "lng": -71.2754,
+    "codEnt": "14",
+    "codMun": "06"
+  },
+  "1407": {
+    "name": "Municipio Caracciolo Parra Olmedo",
+    "capital": "TucanÃƒÂ­",
+    "lat": 8.852,
+    "lng": -71.2015,
+    "codEnt": "14",
+    "codMun": "07"
+  },
+  "1408": {
+    "name": "Municipio Cardenal Quintero",
+    "capital": "Santo Domingo",
+    "lat": 8.8714,
+    "lng": -70.6716,
+    "codEnt": "14",
+    "codMun": "08"
+  },
+  "1409": {
+    "name": "Municipio Guaraque",
+    "capital": "Guaraque",
+    "lat": 8.1281,
+    "lng": -71.6809,
+    "codEnt": "14",
+    "codMun": "09"
+  },
+  "1410": {
+    "name": "Municipio Julio CÃƒÂ©sar Salas",
+    "capital": "Arapuey",
+    "lat": 9.1244,
+    "lng": -70.8676,
+    "codEnt": "14",
+    "codMun": "10"
+  },
+  "1411": {
+    "name": "Municipio Justo BriceÃƒÂ±o",
+    "capital": "Torondoy",
+    "lat": 8.9786,
+    "lng": -70.9906,
+    "codEnt": "14",
+    "codMun": "11"
+  },
+  "1412": {
+    "name": "Municipio Libertador",
+    "capital": "MÃƒÂ©rida",
+    "lat": 8.6181,
+    "lng": -71.0959,
+    "codEnt": "14",
+    "codMun": "12"
+  },
+  "1413": {
+    "name": "Municipio Miranda",
+    "capital": "Timotes",
+    "lat": 8.979,
+    "lng": -70.8057,
+    "codEnt": "14",
+    "codMun": "13"
+  },
+  "1414": {
+    "name": "Municipio Obispo Ramos de Lora",
+    "capital": "Santa Elena de Arenales",
+    "lat": 8.8129,
+    "lng": -71.4198,
+    "codEnt": "14",
+    "codMun": "14"
+  },
+  "1415": {
+    "name": "Municipio Padre Noguera",
+    "capital": "Santa MarÃƒÂ­a de Caparo",
+    "lat": 7.7913,
+    "lng": -71.4707,
+    "codEnt": "14",
+    "codMun": "15"
+  },
+  "1416": {
+    "name": "Municipio Pueblo Llano",
+    "capital": "Pueblo Llano",
+    "lat": 8.9565,
+    "lng": -70.6525,
+    "codEnt": "14",
+    "codMun": "16"
+  },
+  "1417": {
+    "name": "Municipio Rangel",
+    "capital": "MucuchÃƒÂ­es",
+    "lat": 8.7599,
+    "lng": -70.8868,
+    "codEnt": "14",
+    "codMun": "17"
+  },
+  "1418": {
+    "name": "Municipio Rivas DÃƒÂ¡vila",
+    "capital": "Bailadores",
+    "lat": 8.2231,
+    "lng": -71.8438,
+    "codEnt": "14",
+    "codMun": "18"
+  },
+  "1419": {
+    "name": "Municipio Santos Marquina",
+    "capital": "Tabay",
+    "lat": 8.6432,
+    "lng": -71.0288,
+    "codEnt": "14",
+    "codMun": "19"
+  },
+  "1420": {
+    "name": "Municipio Sucre",
+    "capital": "Lagunillas",
+    "lat": 8.4383,
+    "lng": -71.4535,
+    "codEnt": "14",
+    "codMun": "20"
+  },
+  "1421": {
+    "name": "Municipio Tovar",
+    "capital": "Tovar",
+    "lat": 8.3432,
+    "lng": -71.7278,
+    "codEnt": "14",
+    "codMun": "21"
+  },
+  "1422": {
+    "name": "Municipio Tulio Febres Cordero",
+    "capital": "Nueva Bolivia",
+    "lat": 9.0982,
+    "lng": -71.1119,
+    "codEnt": "14",
+    "codMun": "22"
+  },
+  "1423": {
+    "name": "Municipio Zea",
+    "capital": "Zea",
+    "lat": 8.4427,
+    "lng": -71.7685,
+    "codEnt": "14",
+    "codMun": "23"
+  },
+  "1501": {
+    "name": "Municipio Acevedo",
+    "capital": "Caucagua",
+    "lat": 10.1514,
+    "lng": -66.329,
+    "codEnt": "15",
+    "codMun": "01"
+  },
+  "1502": {
+    "name": "Municipio AndrÃƒÂ©s Bello",
+    "capital": "San JosÃƒÂ© de Barlovento",
+    "lat": 10.3001,
+    "lng": -66.0406,
+    "codEnt": "15",
+    "codMun": "02"
+  },
+  "1503": {
+    "name": "Municipio Baruta",
+    "capital": "Nuestra SeÃƒÂ±ora del Rosario de Baruta",
+    "lat": 10.4194,
+    "lng": -66.8614,
+    "codEnt": "15",
+    "codMun": "03"
+  },
+  "1504": {
+    "name": "Municipio BriÃƒÂ³n",
+    "capital": "Higuerote",
+    "lat": 10.5508,
+    "lng": -66.156,
+    "codEnt": "15",
+    "codMun": "04"
+  },
+  "1505": {
+    "name": "Municipio Buroz",
+    "capital": "Mamporal",
+    "lat": 10.3404,
+    "lng": -66.0716,
+    "codEnt": "15",
+    "codMun": "05"
+  },
+  "1506": {
+    "name": "Municipio Carrizal",
+    "capital": "Carrizal",
+    "lat": 10.3523,
+    "lng": -66.9958,
+    "codEnt": "15",
+    "codMun": "06"
+  },
+  "1507": {
+    "name": "Municipio Chacao",
+    "capital": "Chacao",
+    "lat": 10.512,
+    "lng": -66.8643,
+    "codEnt": "15",
+    "codMun": "07"
+  },
+  "1508": {
+    "name": "Municipio CristobÃƒÂ¡l Rojas",
+    "capital": "Charallave",
+    "lat": 10.2591,
+    "lng": -66.8432,
+    "codEnt": "15",
+    "codMun": "08"
+  },
+  "1509": {
+    "name": "Municipio El Hatillo",
+    "capital": "El Hatillo",
+    "lat": 10.4086,
+    "lng": -66.7763,
+    "codEnt": "15",
+    "codMun": "09"
+  },
+  "1510": {
+    "name": "Municipio Bolivariano Guaicaipuro",
+    "capital": "Los Teques",
+    "lat": 10.3376,
+    "lng": -67.0714,
+    "codEnt": "15",
+    "codMun": "10"
+  },
+  "1511": {
+    "name": "Municipio Independencia",
+    "capital": "Santa Teresa del Tuy",
+    "lat": 10.192,
+    "lng": -66.6177,
+    "codEnt": "15",
+    "codMun": "11"
+  },
+  "1512": {
+    "name": "Municipio Tomas Lander",
+    "capital": "Ocumare del Tuy",
+    "lat": 10.0491,
+    "lng": -66.6957,
+    "codEnt": "15",
+    "codMun": "12"
+  },
+  "1513": {
+    "name": "Municipio Los Salias",
+    "capital": "San Antonio de Los Altos",
+    "lat": 10.4012,
+    "lng": -66.946,
+    "codEnt": "15",
+    "codMun": "13"
+  },
+  "1514": {
+    "name": "Municipio PÃƒÂ¡ez",
+    "capital": "RÃƒÂ­o Chico",
+    "lat": 10.1492,
+    "lng": -65.9578,
+    "codEnt": "15",
+    "codMun": "14"
+  },
+  "1515": {
+    "name": "Municipio Paz Castillo",
+    "capital": "Santa LucÃƒÂ­a",
+    "lat": 10.3249,
+    "lng": -66.6642,
+    "codEnt": "15",
+    "codMun": "15"
+  },
+  "1516": {
+    "name": "Municipio Pedro Gual",
+    "capital": "CÃƒÂºpira",
+    "lat": 10.0619,
+    "lng": -65.6485,
+    "codEnt": "15",
+    "codMun": "16"
+  },
+  "1517": {
+    "name": "Municipio Plaza",
+    "capital": "Guarenas",
+    "lat": 10.4931,
+    "lng": -66.6536,
+    "codEnt": "15",
+    "codMun": "17"
+  },
+  "1518": {
+    "name": "Municipio SimÃƒÂ³n BolÃƒÂ­var",
+    "capital": "San Francisco de Yare",
+    "lat": 10.1688,
+    "lng": -66.7074,
+    "codEnt": "15",
+    "codMun": "18"
+  },
+  "1519": {
+    "name": "Municipio Sucre",
+    "capital": "Petare",
+    "lat": 10.4853,
+    "lng": -66.7687,
+    "codEnt": "15",
+    "codMun": "19"
+  },
+  "1520": {
+    "name": "Municipio Urdaneta",
+    "capital": "CÃƒÂºa",
+    "lat": 10.119,
+    "lng": -66.9001,
+    "codEnt": "15",
+    "codMun": "20"
+  },
+  "1521": {
+    "name": "Municipio Zamora",
+    "capital": "Guatire",
+    "lat": 10.4873,
+    "lng": -66.4813,
+    "codEnt": "15",
+    "codMun": "21"
+  },
+  "1601": {
+    "name": "Municipio Acosta",
+    "capital": "San Antonio",
+    "lat": 10.1071,
+    "lng": -63.7428,
+    "codEnt": "16",
+    "codMun": "01"
+  },
+  "1602": {
+    "name": "Municipio Aguasay",
+    "capital": "Aguasay",
+    "lat": 9.1773,
+    "lng": -63.6156,
+    "codEnt": "16",
+    "codMun": "02"
+  },
+  "1603": {
+    "name": "Municipio BolÃƒÂ­var",
+    "capital": "Caripito",
+    "lat": 10.0867,
+    "lng": -63.1127,
+    "codEnt": "16",
+    "codMun": "03"
+  },
+  "1604": {
+    "name": "Municipio Caripe",
+    "capital": "Caripe",
+    "lat": 10.1895,
+    "lng": -63.442,
+    "codEnt": "16",
+    "codMun": "04"
+  },
+  "1605": {
+    "name": "Municipio CedeÃƒÂ±o",
+    "capital": "Caicara",
+    "lat": 9.9328,
+    "lng": -63.7963,
+    "codEnt": "16",
+    "codMun": "05"
+  },
+  "1606": {
+    "name": "Municipio Ezequiel Zamora",
+    "capital": "Punta de Mata",
+    "lat": 9.5924,
+    "lng": -63.6496,
+    "codEnt": "16",
+    "codMun": "06"
+  },
+  "1607": {
+    "name": "Municipio Libertador",
+    "capital": "Temblador",
+    "lat": 9.051,
+    "lng": -62.6814,
+    "codEnt": "16",
+    "codMun": "07"
+  },
+  "1608": {
+    "name": "Municipio MaturÃƒÂ­n",
+    "capital": "MaturÃƒÂ­n",
+    "lat": 9.6521,
+    "lng": -62.7079,
+    "codEnt": "16",
+    "codMun": "08"
+  },
+  "1609": {
+    "name": "Municipio Piar",
+    "capital": "Aragua",
+    "lat": 9.9351,
+    "lng": -63.412,
+    "codEnt": "16",
+    "codMun": "09"
+  },
+  "1610": {
+    "name": "Municipio Punceres",
+    "capital": "Quiriquire",
+    "lat": 10.0038,
+    "lng": -63.1369,
+    "codEnt": "16",
+    "codMun": "10"
+  },
+  "1611": {
+    "name": "Municipio Santa BÃƒÂ¡rbara",
+    "capital": "Santa BÃƒÂ¡rbara",
+    "lat": 9.5906,
+    "lng": -63.5413,
+    "codEnt": "16",
+    "codMun": "11"
+  },
+  "1612": {
+    "name": "Municipio Sotillo",
+    "capital": "Barrancas",
+    "lat": 8.566,
+    "lng": -62.5645,
+    "codEnt": "16",
+    "codMun": "12"
+  },
+  "1613": {
+    "name": "Municipio Uracoa",
+    "capital": "Uracoa",
+    "lat": 8.9324,
+    "lng": -62.3674,
+    "codEnt": "16",
+    "codMun": "13"
+  },
+  "1701": {
+    "name": "Municipio AntolÃƒÂ­n del Campo",
+    "capital": "La Plaza De ParaguachÃƒÂ­",
+    "lat": 11.1328,
+    "lng": -63.8727,
+    "codEnt": "17",
+    "codMun": "01"
+  },
+  "1702": {
+    "name": "Municipio Arismendi",
+    "capital": "La AsunciÃƒÂ³n",
+    "lat": 11.0338,
+    "lng": -63.8564,
+    "codEnt": "17",
+    "codMun": "02"
+  },
+  "1703": {
+    "name": "Municipio DÃƒÂ­az",
+    "capital": "San Juan Bautista",
+    "lat": 10.936,
+    "lng": -63.9582,
+    "codEnt": "17",
+    "codMun": "03"
+  },
+  "1704": {
+    "name": "Municipio GarcÃƒÂ­a",
+    "capital": "El Valle Del EspÃƒÂ­ritu Santo",
+    "lat": 10.9171,
+    "lng": -63.9171,
+    "codEnt": "17",
+    "codMun": "04"
+  },
+  "1705": {
+    "name": "Municipio GÃƒÂ³mez",
+    "capital": "Santa Ana",
+    "lat": 11.0954,
+    "lng": -63.9261,
+    "codEnt": "17",
+    "codMun": "05"
+  },
+  "1706": {
+    "name": "Municipio Maneiro",
+    "capital": "Pampatar",
+    "lat": 11.004,
+    "lng": -63.8093,
+    "codEnt": "17",
+    "codMun": "06"
+  },
+  "1707": {
+    "name": "Municipio Marcano",
+    "capital": "Juangriego",
+    "lat": 11.0697,
+    "lng": -63.9882,
+    "codEnt": "17",
+    "codMun": "07"
+  },
+  "1708": {
+    "name": "Municipio MariÃƒÂ±o",
+    "capital": "Porlamar",
+    "lat": 10.9374,
+    "lng": -63.8588,
+    "codEnt": "17",
+    "codMun": "08"
+  },
+  "1709": {
+    "name": "Municipio PenÃƒÂ­nsula de Macanao",
+    "capital": "Boca Del RÃƒÂ­o",
+    "lat": 11.0052,
+    "lng": -64.2294,
+    "codEnt": "17",
+    "codMun": "09"
+  },
+  "1710": {
+    "name": "Municipio Tubores",
+    "capital": "Punta De Piedras",
+    "lat": 10.9697,
+    "lng": -64.125,
+    "codEnt": "17",
+    "codMun": "10"
+  },
+  "1711": {
+    "name": "Municipio Villalba",
+    "capital": "San Pedro De Coche",
+    "lat": 10.7733,
+    "lng": -63.942,
+    "codEnt": "17",
+    "codMun": "11"
+  },
+  "1801": {
+    "name": "Municipio Agua Blanca",
+    "capital": "Agua Blanca",
+    "lat": 9.6335,
+    "lng": -69.1142,
+    "codEnt": "18",
+    "codMun": "01"
+  },
+  "1802": {
+    "name": "Municipio Araure",
+    "capital": "Araure",
+    "lat": 9.6907,
+    "lng": -69.2678,
+    "codEnt": "18",
+    "codMun": "02"
+  },
+  "1803": {
+    "name": "Municipio Esteller",
+    "capital": "PÃƒÂ­ritu",
+    "lat": 9.1214,
+    "lng": -69.1662,
+    "codEnt": "18",
+    "codMun": "03"
+  },
+  "1804": {
+    "name": "Municipio Guanare",
+    "capital": "Guanare",
+    "lat": 9.2198,
+    "lng": -69.6909,
+    "codEnt": "18",
+    "codMun": "04"
+  },
+  "1805": {
+    "name": "Municipio Guanarito",
+    "capital": "Guanarito",
+    "lat": 8.5281,
+    "lng": -69.0248,
+    "codEnt": "18",
+    "codMun": "05"
+  },
+  "1806": {
+    "name": "Municipio MonseÃƒÂ±or JosÃƒÂ© Vicente de Unda",
+    "capital": "ParaÃƒÂ­so de Chasbasquen",
+    "lat": 9.4988,
+    "lng": -69.9253,
+    "codEnt": "18",
+    "codMun": "06"
+  },
+  "1807": {
+    "name": "Municipio Ospino",
+    "capital": "Ospino",
+    "lat": 9.2084,
+    "lng": -69.3811,
+    "codEnt": "18",
+    "codMun": "07"
+  },
+  "1808": {
+    "name": "Municipio PaÃƒÂ©z",
+    "capital": "Acarigua",
+    "lat": 9.4664,
+    "lng": -68.9431,
+    "codEnt": "18",
+    "codMun": "08"
+  },
+  "1809": {
+    "name": "Municipio PapelÃƒÂ³n",
+    "capital": "PapelÃƒÂ³n",
+    "lat": 8.8346,
+    "lng": -69.0622,
+    "codEnt": "18",
+    "codMun": "09"
+  },
+  "1810": {
+    "name": "Municipio San Genaro de BoconoÃƒÂ­to",
+    "capital": "San Genaro de BoconoÃƒÂ­to",
+    "lat": 8.8735,
+    "lng": -69.8991,
+    "codEnt": "18",
+    "codMun": "10"
+  },
+  "1811": {
+    "name": "Municipio San Rafael de Onoto",
+    "capital": "San Rafael de Onoto",
+    "lat": 9.6933,
+    "lng": -68.9771,
+    "codEnt": "18",
+    "codMun": "11"
+  },
+  "1812": {
+    "name": "Municipio Santa RosalÃƒÂ­a",
+    "capital": "El PlayÃƒÂ³n",
+    "lat": 8.9248,
+    "lng": -68.8121,
+    "codEnt": "18",
+    "codMun": "12"
+  },
+  "1813": {
+    "name": "Municipio Sucre",
+    "capital": "Biscucuy",
+    "lat": 9.2449,
+    "lng": -70.0177,
+    "codEnt": "18",
+    "codMun": "13"
+  },
+  "1814": {
+    "name": "Municipio TurÃƒÂ©n",
+    "capital": "Villa Bruzual",
+    "lat": 9.292,
+    "lng": -68.8477,
+    "codEnt": "18",
+    "codMun": "14"
+  },
+  "1901": {
+    "name": "Municipio AndrÃƒÂ©s Eloy Blanco",
+    "capital": "Casanay",
+    "lat": 10.3806,
+    "lng": -63.3162,
+    "codEnt": "19",
+    "codMun": "01"
+  },
+  "1903": {
+    "name": "Municipio Arismendi",
+    "capital": "RÃƒÂ­o Caribe",
+    "lat": 10.7079,
+    "lng": -62.5117,
+    "codEnt": "19",
+    "codMun": "03"
+  },
+  "1904": {
+    "name": "Municipio BenÃƒÂ­tez",
+    "capital": "El Pilar",
+    "lat": 10.3396,
+    "lng": -62.9574,
+    "codEnt": "19",
+    "codMun": "04"
+  },
+  "1905": {
+    "name": "Municipio BermÃƒÂºdez",
+    "capital": "CarÃƒÂºpano",
+    "lat": 10.6455,
+    "lng": -63.3179,
+    "codEnt": "19",
+    "codMun": "05"
+  },
+  "1906": {
+    "name": "Municipio BolÃƒÂ­var",
+    "capital": "MarigÃƒÂ¼itar",
+    "lat": 10.4375,
+    "lng": -63.9393,
+    "codEnt": "19",
+    "codMun": "06"
+  },
+  "1907": {
+    "name": "Municipio Cajigal",
+    "capital": "Yaguaraparo",
+    "lat": 10.605,
+    "lng": -62.8113,
+    "codEnt": "19",
+    "codMun": "07"
+  },
+  "1908": {
+    "name": "Municipio Cruz SalmerÃƒÂ³n Acosta",
+    "capital": "Araya",
+    "lat": 10.5993,
+    "lng": -64.0227,
+    "codEnt": "19",
+    "codMun": "08"
+  },
+  "1909": {
+    "name": "Municipio Libertador",
+    "capital": "Tunapuy",
+    "lat": 10.5737,
+    "lng": -62.9704,
+    "codEnt": "19",
+    "codMun": "09"
+  },
+  "1910": {
+    "name": "Municipio MariÃƒÂ±o",
+    "capital": "Irapa",
+    "lat": 10.5943,
+    "lng": -62.5859,
+    "codEnt": "19",
+    "codMun": "10"
+  },
+  "1911": {
+    "name": "Municipio MejÃƒÂ­a",
+    "capital": "San Antonio del Golfo",
+    "lat": 10.4349,
+    "lng": -63.7747,
+    "codEnt": "19",
+    "codMun": "11"
+  },
+  "1912": {
+    "name": "Municipio Montes",
+    "capital": "Cumanacoa",
+    "lat": 10.183,
+    "lng": -63.8415,
+    "codEnt": "19",
+    "codMun": "12"
+  },
+  "1913": {
+    "name": "Municipio Ribero",
+    "capital": "Cariaco",
+    "lat": 10.4853,
+    "lng": -63.598,
+    "codEnt": "19",
+    "codMun": "13"
+  },
+  "1914": {
+    "name": "Municipio Sucre",
+    "capital": "Cumana",
+    "lat": 10.3382,
+    "lng": -64.3462,
+    "codEnt": "19",
+    "codMun": "14"
+  },
+  "1915": {
+    "name": "Municipio ValdÃƒÂ©z",
+    "capital": "GÃƒÂ¼iria",
+    "lat": 10.6492,
+    "lng": -62.1182,
+    "codEnt": "19",
+    "codMun": "15"
+  },
+  "2001": {
+    "name": "Municipio AndrÃƒÂ©s Bello",
+    "capital": "Cordero",
+    "lat": 7.8834,
+    "lng": -72.1457,
+    "codEnt": "20",
+    "codMun": "01"
+  },
+  "2002": {
+    "name": "Municipio Antonio RÃƒÂ³mulo Costa",
+    "capital": "Las Mesas",
+    "lat": 8.1893,
+    "lng": -72.1571,
+    "codEnt": "20",
+    "codMun": "02"
+  },
+  "2003": {
+    "name": "Municipio Ayacucho",
+    "capital": "ColÃƒÂ³n",
+    "lat": 8.1692,
+    "lng": -72.3529,
+    "codEnt": "20",
+    "codMun": "03"
+  },
+  "2004": {
+    "name": "Municipio BolÃƒÂ­var",
+    "capital": "San Antonio del TÃƒÂ¡chira",
+    "lat": 7.7918,
+    "lng": -72.4558,
+    "codEnt": "20",
+    "codMun": "04"
+  },
+  "2005": {
+    "name": "Municipio CÃƒÂ¡rdenas",
+    "capital": "TÃƒÂ¡riba",
+    "lat": 7.7943,
+    "lng": -72.1312,
+    "codEnt": "20",
+    "codMun": "05"
+  },
+  "2006": {
+    "name": "Municipio CÃƒÂ³rdoba",
+    "capital": "Santa Ana",
+    "lat": 7.5383,
+    "lng": -72.2337,
+    "codEnt": "20",
+    "codMun": "06"
+  },
+  "2007": {
+    "name": "Municipio FernÃƒÂ¡ndez Feo",
+    "capital": "San Rafael del PiÃƒÂ±al",
+    "lat": 7.5418,
+    "lng": -71.9753,
+    "codEnt": "20",
+    "codMun": "07"
+  },
+  "2008": {
+    "name": "Municipio Francisco de Miranda",
+    "capital": "San JosÃƒÂ© de BolÃƒÂ­var",
+    "lat": 7.917,
+    "lng": -71.9003,
+    "codEnt": "20",
+    "codMun": "08"
+  },
+  "2009": {
+    "name": "Municipio GarcÃƒÂ­a de Hevia",
+    "capital": "La FrÃƒÂ­a",
+    "lat": 8.3485,
+    "lng": -72.2953,
+    "codEnt": "20",
+    "codMun": "09"
+  },
+  "2010": {
+    "name": "Municipio GuÃƒÂ¡simos",
+    "capital": "Palmira",
+    "lat": 7.8466,
+    "lng": -72.2391,
+    "codEnt": "20",
+    "codMun": "10"
+  },
+  "2011": {
+    "name": "Municipio Independencia",
+    "capital": "Capacho Nuevo",
+    "lat": 7.8237,
+    "lng": -72.2798,
+    "codEnt": "20",
+    "codMun": "11"
+  },
+  "2012": {
+    "name": "Municipio JÃƒÂ¡uregui",
+    "capital": "La Grita",
+    "lat": 8.186,
+    "lng": -71.9502,
+    "codEnt": "20",
+    "codMun": "12"
+  },
+  "2013": {
+    "name": "Municipio JosÃƒÂ© MarÃƒÂ­a Vargas",
+    "capital": "El Cobre",
+    "lat": 8.0129,
+    "lng": -72.0902,
+    "codEnt": "20",
+    "codMun": "13"
+  },
+  "2014": {
+    "name": "Municipio JunÃƒÂ­n",
+    "capital": "Rubio",
+    "lat": 7.6094,
+    "lng": -72.3672,
+    "codEnt": "20",
+    "codMun": "14"
+  },
+  "2015": {
+    "name": "Municipio Libertad",
+    "capital": "Capacho Viejo",
+    "lat": 7.7798,
+    "lng": -72.3203,
+    "codEnt": "20",
+    "codMun": "15"
+  },
+  "2016": {
+    "name": "Municipio Libertador",
+    "capital": "Abejales",
+    "lat": 7.6365,
+    "lng": -71.6055,
+    "codEnt": "20",
+    "codMun": "16"
+  },
+  "2017": {
+    "name": "Municipio Lobatera",
+    "capital": "Lobatera",
+    "lat": 7.9536,
+    "lng": -72.2765,
+    "codEnt": "20",
+    "codMun": "17"
+  },
+  "2018": {
+    "name": "Municipio Michelena",
+    "capital": "Michelena",
+    "lat": 7.9892,
+    "lng": -72.1941,
+    "codEnt": "20",
+    "codMun": "18"
+  },
+  "2019": {
+    "name": "Municipio Panamericano",
+    "capital": "Coloncito",
+    "lat": 8.3954,
+    "lng": -72.0745,
+    "codEnt": "20",
+    "codMun": "19"
+  },
+  "2020": {
+    "name": "Municipio Pedro MarÃƒÂ­a UreÃƒÂ±a",
+    "capital": "UreÃƒÂ±a",
+    "lat": 7.9789,
+    "lng": -72.4325,
+    "codEnt": "20",
+    "codMun": "20"
+  },
+  "2021": {
+    "name": "Municipio Rafael Urdaneta",
+    "capital": "Delicias",
+    "lat": 7.569,
+    "lng": -72.4539,
+    "codEnt": "20",
+    "codMun": "21"
+  },
+  "2022": {
+    "name": "Municipio Samuel Dario Maldonado",
+    "capital": "La Tendida",
+    "lat": 8.5653,
+    "lng": -71.9187,
+    "codEnt": "20",
+    "codMun": "22"
+  },
+  "2023": {
+    "name": "Municipio San CristobÃƒÂ¡l",
+    "capital": "San CristobÃƒÂ¡l",
+    "lat": 7.7327,
+    "lng": -72.2095,
+    "codEnt": "20",
+    "codMun": "23"
+  },
+  "2024": {
+    "name": "Municipio Seboruco",
+    "capital": "Seboruco",
+    "lat": 8.1321,
+    "lng": -72.0709,
+    "codEnt": "20",
+    "codMun": "24"
+  },
+  "2025": {
+    "name": "Municipio SimÃƒÂ³n RodrÃƒÂ­guez",
+    "capital": "San SimÃƒÂ³n",
+    "lat": 8.3267,
+    "lng": -71.8567,
+    "codEnt": "20",
+    "codMun": "25"
+  },
+  "2026": {
+    "name": "Municipio Sucre",
+    "capital": "Queniquea",
+    "lat": 7.8643,
+    "lng": -71.971,
+    "codEnt": "20",
+    "codMun": "26"
+  },
+  "2027": {
+    "name": "Municipio Torbes",
+    "capital": "San Joseito",
+    "lat": 7.6541,
+    "lng": -72.1604,
+    "codEnt": "20",
+    "codMun": "27"
+  },
+  "2028": {
+    "name": "Municipio Uribante",
+    "capital": "Pregonero",
+    "lat": 7.8918,
+    "lng": -71.7476,
+    "codEnt": "20",
+    "codMun": "28"
+  },
+  "2029": {
+    "name": "Municipio San Judas Tadeo",
+    "capital": "Umuquena",
+    "lat": 8.2555,
+    "lng": -72.0493,
+    "codEnt": "20",
+    "codMun": "29"
+  },
+  "2101": {
+    "name": "Municipio AndrÃƒÂ©s Bello",
+    "capital": "Santa Isabel",
+    "lat": 9.7078,
+    "lng": -70.7413,
+    "codEnt": "21",
+    "codMun": "01"
+  },
+  "2102": {
+    "name": "Municipio BoconÃƒÂ³",
+    "capital": "BoconÃƒÂ³",
+    "lat": 9.2127,
+    "lng": -70.1928,
+    "codEnt": "21",
+    "codMun": "02"
+  },
+  "2103": {
+    "name": "Municipio BolÃƒÂ­var",
+    "capital": "Sabana Grande",
+    "lat": 9.3362,
+    "lng": -70.8185,
+    "codEnt": "21",
+    "codMun": "03"
+  },
+  "2104": {
+    "name": "Municipio Candelaria",
+    "capital": "ChejendÃƒÂ©",
+    "lat": 9.6426,
+    "lng": -70.4272,
+    "codEnt": "21",
+    "codMun": "04"
+  },
+  "2105": {
+    "name": "Municipio Carache",
+    "capital": "Carache",
+    "lat": 9.6682,
+    "lng": -70.2379,
+    "codEnt": "21",
+    "codMun": "05"
+  },
+  "2106": {
+    "name": "Municipio Escuque",
+    "capital": "Escuque",
+    "lat": 9.2735,
+    "lng": -70.7237,
+    "codEnt": "21",
+    "codMun": "06"
+  },
+  "2107": {
+    "name": "Municipio JosÃƒÂ© Felipe MÃƒÂ¡quez CaÃƒÂ±izales",
+    "capital": "El Paradero",
+    "lat": 9.8938,
+    "lng": -70.5849,
+    "codEnt": "21",
+    "codMun": "07"
+  },
+  "2108": {
+    "name": "Municipio Juan Vicente Campo ElÃƒÂ­as",
+    "capital": "Campo ElÃƒÂ­as",
+    "lat": 9.4183,
+    "lng": -70.0799,
+    "codEnt": "21",
+    "codMun": "08"
+  },
+  "2109": {
+    "name": "Municipio La Ceiba",
+    "capital": "Santa Apolonia",
+    "lat": 9.5147,
+    "lng": -71.0322,
+    "codEnt": "21",
+    "codMun": "09"
+  },
+  "2110": {
+    "name": "Municipio Miranda",
+    "capital": "El Dividive",
+    "lat": 9.5448,
+    "lng": -70.6328,
+    "codEnt": "21",
+    "codMun": "10"
+  },
+  "2111": {
+    "name": "Municipio Monte Carmelo",
+    "capital": "Monte Carmelo",
+    "lat": 9.2701,
+    "lng": -70.9112,
+    "codEnt": "21",
+    "codMun": "11"
+  },
+  "2112": {
+    "name": "Municipio MotatÃƒÂ¡n",
+    "capital": "MotatÃƒÂ¡n",
+    "lat": 9.4448,
+    "lng": -70.6177,
+    "codEnt": "21",
+    "codMun": "12"
+  },
+  "2113": {
+    "name": "Municipio PampÃƒÂ¡n",
+    "capital": "PampÃƒÂ¡n",
+    "lat": 9.5162,
+    "lng": -70.4286,
+    "codEnt": "21",
+    "codMun": "13"
+  },
+  "2114": {
+    "name": "Municipio Pampanito",
+    "capital": "Pampanito",
+    "lat": 9.4238,
+    "lng": -70.5251,
+    "codEnt": "21",
+    "codMun": "14"
+  },
+  "2115": {
+    "name": "Municipio Rafael Rangel",
+    "capital": "Betijoque",
+    "lat": 9.3482,
+    "lng": -70.7408,
+    "codEnt": "21",
+    "codMun": "15"
+  },
+  "2116": {
+    "name": "Municipio San Rafael de Carvajal",
+    "capital": "Carvajal",
+    "lat": 9.3594,
+    "lng": -70.5674,
+    "codEnt": "21",
+    "codMun": "16"
+  },
+  "2117": {
+    "name": "Municipio Sucre",
+    "capital": "Sabana de Mendoza",
+    "lat": 9.4837,
+    "lng": -70.7865,
+    "codEnt": "21",
+    "codMun": "17"
+  },
+  "2118": {
+    "name": "Municipio Trujillo",
+    "capital": "Trujillo",
+    "lat": 9.3343,
+    "lng": -70.4506,
+    "codEnt": "21",
+    "codMun": "18"
+  },
+  "2119": {
+    "name": "Municipio Urdaneta",
+    "capital": "La Quebrada",
+    "lat": 9.1275,
+    "lng": -70.5778,
+    "codEnt": "21",
+    "codMun": "19"
+  },
+  "2120": {
+    "name": "Municipio Valera",
+    "capital": "Valera",
+    "lat": 9.1981,
+    "lng": -70.6701,
+    "codEnt": "21",
+    "codMun": "20"
+  },
+  "2201": {
+    "name": "Municipio ArÃƒÂ­stides Bastidas",
+    "capital": "San Pablo",
+    "lat": 10.2378,
+    "lng": -68.8496,
+    "codEnt": "22",
+    "codMun": "01"
+  },
+  "2202": {
+    "name": "Municipio BolÃƒÂ­var",
+    "capital": "Aroa",
+    "lat": 10.4598,
+    "lng": -68.8803,
+    "codEnt": "22",
+    "codMun": "02"
+  },
+  "2203": {
+    "name": "Municipio Bruzual",
+    "capital": "Chivacoa",
+    "lat": 10.1822,
+    "lng": -68.8714,
+    "codEnt": "22",
+    "codMun": "03"
+  },
+  "2204": {
+    "name": "Municipio Cocorote",
+    "capital": "Cocorote",
+    "lat": 10.313,
+    "lng": -68.7622,
+    "codEnt": "22",
+    "codMun": "04"
+  },
+  "2205": {
+    "name": "Municipio Independencia",
+    "capital": "Independencia",
+    "lat": 10.3237,
+    "lng": -68.74,
+    "codEnt": "22",
+    "codMun": "05"
+  },
+  "2206": {
+    "name": "Municipio JosÃƒÂ© Antonio PÃƒÂ¡ez",
+    "capital": "Sabana de Parra",
+    "lat": 10.0898,
+    "lng": -69.0163,
+    "codEnt": "22",
+    "codMun": "06"
+  },
+  "2207": {
+    "name": "Municipio La Trinidad",
+    "capital": "Boraure",
+    "lat": 10.2285,
+    "lng": -68.7543,
+    "codEnt": "22",
+    "codMun": "07"
+  },
+  "2208": {
+    "name": "Municipio Manuel Monge",
+    "capital": "Yumare",
+    "lat": 10.5996,
+    "lng": -68.6501,
+    "codEnt": "22",
+    "codMun": "08"
+  },
+  "2209": {
+    "name": "Municipio Nirgua",
+    "capital": "Nirgua",
+    "lat": 10.0361,
+    "lng": -68.5695,
+    "codEnt": "22",
+    "codMun": "09"
+  },
+  "2210": {
+    "name": "Municipio PeÃƒÂ±a",
+    "capital": "Yaritagua",
+    "lat": 10.0972,
+    "lng": -69.0901,
+    "codEnt": "22",
+    "codMun": "10"
+  },
+  "2211": {
+    "name": "Municipio San Felipe",
+    "capital": "San Felipe",
+    "lat": 10.4246,
+    "lng": -68.6451,
+    "codEnt": "22",
+    "codMun": "11"
+  },
+  "2212": {
+    "name": "Municipio Sucre",
+    "capital": "Guama",
+    "lat": 10.2363,
+    "lng": -68.7826,
+    "codEnt": "22",
+    "codMun": "12"
+  },
+  "2213": {
+    "name": "Municipio Urachiche",
+    "capital": "Urachiche",
+    "lat": 10.1828,
+    "lng": -68.992,
+    "codEnt": "22",
+    "codMun": "13"
+  },
+  "2214": {
+    "name": "Municipio Veroes",
+    "capital": "Farriar",
+    "lat": 10.4254,
+    "lng": -68.4847,
+    "codEnt": "22",
+    "codMun": "14"
+  },
+  "2301": {
+    "name": "Municipio Almirante Padilla",
+    "capital": "El Toro",
+    "lat": 11.0238,
+    "lng": -71.702,
+    "codEnt": "23",
+    "codMun": "01"
+  },
+  "2302": {
+    "name": "Municipio Baralt",
+    "capital": "San Timoteo",
+    "lat": 9.9475,
+    "lng": -70.9057,
+    "codEnt": "23",
+    "codMun": "02"
+  },
+  "2303": {
+    "name": "Municipio Cabimas",
+    "capital": "Cabimas",
+    "lat": 10.417,
+    "lng": -71.3685,
+    "codEnt": "23",
+    "codMun": "03"
+  },
+  "2304": {
+    "name": "Municipio Catatumbo",
+    "capital": "Encontrados",
+    "lat": 9.2113,
+    "lng": -72.0322,
+    "codEnt": "23",
+    "codMun": "04"
+  },
+  "2305": {
+    "name": "Municipio ColÃƒÂ³n",
+    "capital": "San Carlos del Zulia",
+    "lat": 8.9088,
+    "lng": -71.9781,
+    "codEnt": "23",
+    "codMun": "05"
+  },
+  "2306": {
+    "name": "Municipio Francisco Javier Pulgar",
+    "capital": "Pueblo Nuevo El Chivo",
+    "lat": 8.943,
+    "lng": -71.5107,
+    "codEnt": "23",
+    "codMun": "06"
+  },
+  "2307": {
+    "name": "Municipio JesÃƒÂºs Enrique Lossada",
+    "capital": "La ConcepciÃƒÂ³n",
+    "lat": 10.5455,
+    "lng": -72.7077,
+    "codEnt": "23",
+    "codMun": "07"
+  },
+  "2308": {
+    "name": "Municipio JesÃƒÂºs MarÃƒÂ­a SemprÃƒÂºm",
+    "capital": "Casigua - El Cubo",
+    "lat": 9.2167,
+    "lng": -73.0072,
+    "codEnt": "23",
+    "codMun": "08"
+  },
+  "2309": {
+    "name": "Municipio La CaÃƒÂ±ada de Urdaneta",
+    "capital": "ConcepciÃƒÂ³n",
+    "lat": 10.3213,
+    "lng": -71.9274,
+    "codEnt": "23",
+    "codMun": "09"
+  },
+  "2310": {
+    "name": "Municipio Lagunillas",
+    "capital": "Ciudad Ojeda",
+    "lat": 10.2294,
+    "lng": -71.1307,
+    "codEnt": "23",
+    "codMun": "10"
+  },
+  "2311": {
+    "name": "Municipio Machiques de PerijÃƒÂ¡",
+    "capital": "Machiques",
+    "lat": 9.7385,
+    "lng": -72.5015,
+    "codEnt": "23",
+    "codMun": "11"
+  },
+  "2312": {
+    "name": "Municipio Mara",
+    "capital": "San Rafael de El MojÃƒÂ¡n",
+    "lat": 10.9705,
+    "lng": -72.1074,
+    "codEnt": "23",
+    "codMun": "12"
+  },
+  "2313": {
+    "name": "Municipio Maracaibo",
+    "capital": "Maracaibo",
+    "lat": 10.6804,
+    "lng": -71.6135,
+    "codEnt": "23",
+    "codMun": "13"
+  },
+  "2314": {
+    "name": "Municipio Miranda",
+    "capital": "Los Puertos de Altagracia",
+    "lat": 10.735,
+    "lng": -71.2739,
+    "codEnt": "23",
+    "codMun": "14"
+  },
+  "2315": {
+    "name": "Municipio IndÃƒÂ­gena Bolivariano Guajira",
+    "capital": "Sinamaica",
+    "lat": 11.4842,
+    "lng": -71.7665,
+    "codEnt": "23",
+    "codMun": "15"
+  },
+  "2316": {
+    "name": "Municipio Rosario de PerijÃƒÂ¡",
+    "capital": "La Villa del Rosario",
+    "lat": 10.1944,
+    "lng": -72.34,
+    "codEnt": "23",
+    "codMun": "16"
+  },
+  "2317": {
+    "name": "Municipio San Francisco",
+    "capital": "San Francisco",
+    "lat": 10.5533,
+    "lng": -71.6349,
+    "codEnt": "23",
+    "codMun": "17"
+  },
+  "2318": {
+    "name": "Municipio Santa Rita",
+    "capital": "Santa Rita",
+    "lat": 10.522,
+    "lng": -71.3789,
+    "codEnt": "23",
+    "codMun": "18"
+  },
+  "2319": {
+    "name": "Municipio SimÃƒÂ³n BolÃƒÂ­var",
+    "capital": "TÃƒÂ­a Juana",
+    "lat": 10.29,
+    "lng": -71.2973,
+    "codEnt": "23",
+    "codMun": "19"
+  },
+  "2320": {
+    "name": "Municipio Sucre",
+    "capital": "Bobures",
+    "lat": 9.1954,
+    "lng": -71.1109,
+    "codEnt": "23",
+    "codMun": "20"
+  },
+  "2321": {
+    "name": "Municipio Valmore RodrÃƒÂ­guez",
+    "capital": "Bachaquero",
+    "lat": 10.1368,
+    "lng": -70.9977,
+    "codEnt": "23",
+    "codMun": "21"
+  },
+  "2424": {
+    "name": "Municipio Vargas",
+    "capital": "La Guaira",
+    "lat": 10.5478,
+    "lng": -66.8918,
+    "codEnt": "24",
+    "codMun": "24"
+  },
+  "0704": {
+    "name": "Municipio Gran Sabana",
+    "capital": "Santa Elena de UairÃƒÂ©n",
+    "lat": 4.6391,
+    "lng": -61.0566,
+    "codEnt": "07",
+    "codMun": "04"
+  },
+  "0703": {
+    "name": "Municipio El Callao",
+    "capital": "El Callao",
+    "lat": 7.1434,
+    "lng": -61.7229,
+    "codEnt": "07",
+    "codMun": "03"
+  },
+  "0702": {
+    "name": "Municipio CedeÃƒÂ±o",
+    "capital": "Caicara Del Orinoco",
+    "lat": 6.7773,
+    "lng": -66.1393,
+    "codEnt": "07",
+    "codMun": "02"
+  },
+  "0708": {
+    "name": "Municipio Roscio",
+    "capital": "Guasipati",
+    "lat": 7.2167,
+    "lng": -62.087,
+    "codEnt": "07",
+    "codMun": "08"
+  },
+  "0709": {
+    "name": "Municipio Sifontes",
+    "capital": "Tumeremo",
+    "lat": 6.6571,
+    "lng": -61.2247,
+    "codEnt": "07",
+    "codMun": "09"
+  },
+  "0707": {
+    "name": "Municipio Bolivariano Angostura",
+    "capital": "Ciudad Piar",
+    "lat": 4.9122,
+    "lng": -62.9491,
+    "codEnt": "07",
+    "codMun": "07"
+  },
+  "0710": {
+    "name": "Municipio Sucre",
+    "capital": "Maripa",
+    "lat": 5.5646,
+    "lng": -64.355,
+    "codEnt": "07",
+    "codMun": "10"
+  },
+  "0705": {
+    "name": "Municipio Heres",
+    "capital": "Ciudad BolÃƒÂ­var",
+    "lat": 7.9915,
+    "lng": -63.7257,
+    "codEnt": "07",
+    "codMun": "05"
+  },
+  "0706": {
+    "name": "Municipio Piar",
+    "capital": "Upata",
+    "lat": 7.093,
+    "lng": -62.4421,
+    "codEnt": "07",
+    "codMun": "06"
+  },
+  "0701": {
+    "name": "Municipio CaronÃƒÂ­",
+    "capital": "Ciudad Guayana",
+    "lat": 8.334,
+    "lng": -62.8745,
+    "codEnt": "07",
+    "codMun": "01"
+  },
+  "0711": {
+    "name": "Municipio Padre Pedro Chien",
+    "capital": "El Palmar",
+    "lat": 8.0671,
+    "lng": -61.8724,
+    "codEnt": "07",
+    "codMun": "11"
+  },
+  "0406": {
+    "name": "Municipio RÃƒÂ³mulo Gallegos",
+    "capital": "Elorza",
+    "lat": 6.8508,
+    "lng": -69.4899,
+    "codEnt": "04",
+    "codMun": "06"
+  },
+  "0405": {
+    "name": "Municipio Pedro Camejo",
+    "capital": "San Juan de Payara",
+    "lat": 6.8639,
+    "lng": -68.089,
+    "codEnt": "04",
+    "codMun": "05"
+  },
+  "0404": {
+    "name": "Municipio PaÃƒÂ©z",
+    "capital": "Guasdualito",
+    "lat": 7.2776,
+    "lng": -71.0743,
+    "codEnt": "04",
+    "codMun": "04"
+  },
+  "0407": {
+    "name": "Municipio San Fernando",
+    "capital": "San Fernando de Apure",
+    "lat": 7.5929,
+    "lng": -67.0097,
+    "codEnt": "04",
+    "codMun": "07"
+  },
+  "0401": {
+    "name": "Municipio Achaguas",
+    "capital": "Achaguas",
+    "lat": 7.2645,
+    "lng": -68.2358,
+    "codEnt": "04",
+    "codMun": "01"
+  },
+  "0402": {
+    "name": "Municipio Biruaca",
+    "capital": "Biruaca",
+    "lat": 7.8464,
+    "lng": -67.8005,
+    "codEnt": "04",
+    "codMun": "02"
+  },
+  "0403": {
+    "name": "Municipio MuÃƒÂ±oz",
+    "capital": "Bruzual",
+    "lat": 7.7346,
+    "lng": -69.2373,
+    "codEnt": "04",
+    "codMun": "03"
+  },
+  "0000": {
+    "name": "",
+    "capital": "",
+    "lat": 4.4399,
+    "lng": -59.2786,
+    "codEnt": "00",
+    "codMun": "00"
+  },
+  "0207": {
+    "name": "Municipio AutÃƒÂ³nomo RÃƒÂ­o Negro",
+    "capital": "San Carlos de RÃƒÂ­o Negro",
+    "lat": 1.4771,
+    "lng": -65.4054,
+    "codEnt": "02",
+    "codMun": "07"
+  },
+  "0205": {
+    "name": "Municipio AutÃƒÂ³nomo Maroa",
+    "capital": "Maroa",
+    "lat": 2.6337,
+    "lng": -67.2104,
+    "codEnt": "02",
+    "codMun": "05"
+  },
+  "0201": {
+    "name": "Municipio AutÃƒÂ³nomo Alto Orinoco",
+    "capital": "La Esmeralda",
+    "lat": 2.7312,
+    "lng": -63.8871,
+    "codEnt": "02",
+    "codMun": "01"
+  },
+  "0202": {
+    "name": "Municipio AutÃƒÂ³nomo Atabapo",
+    "capital": "San Fernando de Atabapo",
+    "lat": 3.6819,
+    "lng": -66.9815,
+    "codEnt": "02",
+    "codMun": "02"
+  },
+  "0204": {
+    "name": "Municipio AutÃƒÂ³nomo Autana",
+    "capital": "Isla RatÃƒÂ³n",
+    "lat": 5.004,
+    "lng": -67.245,
+    "codEnt": "02",
+    "codMun": "04"
+  },
+  "0206": {
+    "name": "Municipio AutÃƒÂ³nomo Manapiare",
+    "capital": "San Juan de Manapiare",
+    "lat": 4.9744,
+    "lng": -65.6146,
+    "codEnt": "02",
+    "codMun": "06"
+  },
+  "0203": {
+    "name": "Municipio Fernando de PeÃƒÂ±alver",
+    "capital": "Puerto PÃƒÂ­ritu",
+    "lat": 10.0475,
+    "lng": -65.157,
+    "codEnt": "02",
+    "codMun": "03"
+  },
+  "0300": {
+    "name": "Zona de SobreposiciÃƒÂ³n de LÃƒÂ­mite entre Municipios",
+    "capital": "No Aplica por SobreposiciÃƒÂ³n de LÃƒÂ­mites",
+    "lat": 9.6336,
+    "lng": -64.4228,
+    "codEnt": "03",
+    "codMun": "00"
+  },
+  "0309": {
+    "name": "Municipio Juan Manuel Cajigal",
+    "capital": "Onoto",
+    "lat": 9.6555,
+    "lng": -65.2413,
+    "codEnt": "03",
+    "codMun": "09"
+  },
+  "0510": {
+    "name": "Municipio San SebastiÃƒÂ¡n",
+    "capital": "San SebastiÃƒÂ¡n",
+    "lat": 9.9733,
+    "lng": -67.1964,
+    "codEnt": "05",
+    "codMun": "10"
+  },
+  "0516": {
+    "name": "Municipio Zamora",
+    "capital": "Villa de Cura",
+    "lat": 10.0183,
+    "lng": -67.5032,
+    "codEnt": "05",
+    "codMun": "16"
+  },
+  "0504": {
+    "name": "Municipio JosÃƒÂ© ÃƒÂngel Lamas",
+    "capital": "Santa Cruz",
+    "lat": 10.1604,
+    "lng": -67.5118,
+    "codEnt": "05",
+    "codMun": "04"
+  },
+  "0507": {
+    "name": "Municipio Libertador",
+    "capital": "Palo Negro",
+    "lat": 10.1691,
+    "lng": -67.5654,
+    "codEnt": "05",
+    "codMun": "07"
+  },
+  "0502": {
+    "name": "Municipio Camatagua",
+    "capital": "Camatagua",
+    "lat": 9.7885,
+    "lng": -66.9289,
+    "codEnt": "05",
+    "codMun": "02"
+  },
+  "0509": {
+    "name": "Municipio San Casimiro",
+    "capital": "San Casimiro",
+    "lat": 9.9734,
+    "lng": -66.9522,
+    "codEnt": "05",
+    "codMun": "09"
+  },
+  "0513": {
+    "name": "Municipio Sucre",
+    "capital": "Cagua",
+    "lat": 10.1538,
+    "lng": -67.4444,
+    "codEnt": "05",
+    "codMun": "13"
+  },
+  "0517": {
+    "name": "Municipio Francisco Linares AlcÃƒÂ¡ntara",
+    "capital": "Santa Rita",
+    "lat": 10.2017,
+    "lng": -67.5507,
+    "codEnt": "05",
+    "codMun": "17"
+  },
+  "0501": {
+    "name": "Municipio BolÃƒÂ­var",
+    "capital": "San Mateo",
+    "lat": 10.2429,
+    "lng": -67.4153,
+    "codEnt": "05",
+    "codMun": "01"
+  },
+  "0512": {
+    "name": "Municipio Santos Michelena",
+    "capital": "Las TejerÃƒÂ­as",
+    "lat": 10.1836,
+    "lng": -67.1391,
+    "codEnt": "05",
+    "codMun": "12"
+  },
+  "0506": {
+    "name": "Municipio JosÃƒÂ© Rafael Revenga",
+    "capital": "El Consejo",
+    "lat": 10.2885,
+    "lng": -67.2508,
+    "codEnt": "05",
+    "codMun": "06"
+  },
+  "0508": {
+    "name": "Municipio Mario BriceÃƒÂ±o Iragorry",
+    "capital": "El LimÃƒÂ³n",
+    "lat": 10.3209,
+    "lng": -67.6524,
+    "codEnt": "05",
+    "codMun": "08"
+  },
+  "0515": {
+    "name": "Municipio Urdaneta",
+    "capital": "Barbacoas",
+    "lat": 9.6482,
+    "lng": -66.7173,
+    "codEnt": "05",
+    "codMun": "15"
+  },
+  "0505": {
+    "name": "Municipio JosÃƒÂ© FÃƒÂ©lix Ribas",
+    "capital": "La Victoria",
+    "lat": 10.1905,
+    "lng": -67.3212,
+    "codEnt": "05",
+    "codMun": "05"
+  },
+  "0612": {
+    "name": "Municipio AndrÃƒÂ©s Eloy Blanco",
+    "capital": "El CantÃƒÂ³n",
+    "lat": 7.4387,
+    "lng": -71.2211,
+    "codEnt": "06",
+    "codMun": "12"
+  },
+  "0613": {
+    "name": "Municipio JosÃƒÂ© Antonio PaÃƒÂ©z",
+    "capital": "San Rafael de CunaguÃƒÂ¡",
+    "lat": 7.9608,
+    "lng": -69.859,
+    "codEnt": "06",
+    "codMun": "13"
+  },
+  "0607": {
+    "name": "Municipio Ezequiel Zamora",
+    "capital": "Santa BÃƒÂ¡rbara",
+    "lat": 7.8238,
+    "lng": -71.1548,
+    "codEnt": "06",
+    "codMun": "07"
+  },
+  "0603": {
+    "name": "Municipio Arismendi",
+    "capital": "Arismendi",
+    "lat": 8.3553,
+    "lng": -68.1192,
+    "codEnt": "06",
+    "codMun": "03"
+  },
+  "0611": {
+    "name": "Municipio Sosa",
+    "capital": "Ciudad De Nutrias",
+    "lat": 8.3269,
+    "lng": -69.144,
+    "codEnt": "06",
+    "codMun": "11"
+  },
+  "0610": {
+    "name": "Municipio Rojas",
+    "capital": "Libertad",
+    "lat": 8.5321,
+    "lng": -69.6783,
+    "codEnt": "06",
+    "codMun": "10"
+  },
+  "0604": {
+    "name": "Municipio Barinas",
+    "capital": "Barinas",
+    "lat": 8.2793,
+    "lng": -69.9971,
+    "codEnt": "06",
+    "codMun": "04"
+  },
+  "0608": {
+    "name": "Municipio Obispos",
+    "capital": "Obispos",
+    "lat": 8.3979,
+    "lng": -69.8465,
+    "codEnt": "06",
+    "codMun": "08"
+  },
+  "0609": {
+    "name": "Municipio Pedraza",
+    "capital": "Ciudad Bolivia",
+    "lat": 8.0759,
+    "lng": -70.4659,
+    "codEnt": "06",
+    "codMun": "09"
+  },
+  "0605": {
+    "name": "Municipio BolÃƒÂ­var",
+    "capital": "Barinitas",
+    "lat": 8.7777,
+    "lng": -70.4856,
+    "codEnt": "06",
+    "codMun": "05"
+  },
+  "0606": {
+    "name": "Municipio Cruz Paredes",
+    "capital": "Barrancas",
+    "lat": 8.82,
+    "lng": -70.2045,
+    "codEnt": "06",
+    "codMun": "06"
+  },
+  "0601": {
+    "name": "Municipio Alberto Arvelo Torrealba",
+    "capital": "Sabaneta",
+    "lat": 8.8317,
+    "lng": -70.0114,
+    "codEnt": "06",
+    "codMun": "01"
+  },
+  "0602": {
+    "name": "Municipio Antonio JosÃƒÂ© de Sucre",
+    "capital": "SocopÃƒÂ³",
+    "lat": 8.113,
+    "lng": -70.7057,
+    "codEnt": "06",
+    "codMun": "02"
+  },
+  "0304": {
+    "name": "Municipio Francisco del Carmen Carvajal",
+    "capital": "Valle de Guanape",
+    "lat": 9.874,
+    "lng": -65.6897,
+    "codEnt": "03",
+    "codMun": "04"
+  },
+  "0314": {
+    "name": "Municipio PÃƒÂ­ritu",
+    "capital": "PÃƒÂ­ritu",
+    "lat": 9.9536,
+    "lng": -65.0508,
+    "codEnt": "03",
+    "codMun": "14"
+  },
+  "0312": {
+    "name": "Municipio Manuel Ezequiel Bruzual",
+    "capital": "Clarines",
+    "lat": 9.8072,
+    "lng": -65.3305,
+    "codEnt": "03",
+    "codMun": "12"
+  },
+  "0311": {
+    "name": "Municipio Libertad",
+    "capital": "San Mateo",
+    "lat": 9.6711,
+    "lng": -64.6968,
+    "codEnt": "03",
+    "codMun": "11"
+  },
+  "0313": {
+    "name": "Municipio Pedro MarÃƒÂ­a FrÃƒÂ©ites",
+    "capital": "Cantaura",
+    "lat": 9.2064,
+    "lng": -63.9636,
+    "codEnt": "03",
+    "codMun": "13"
+  },
+  "0305": {
+    "name": "Municipio Francisco de Miranda",
+    "capital": "PariaguÃƒÂ¡n",
+    "lat": 8.5055,
+    "lng": -64.3506,
+    "codEnt": "03",
+    "codMun": "05"
+  },
+  "0802": {
+    "name": "Municipio Carlos Arvelo",
+    "capital": "GÃƒÂ¼igÃƒÂ¼e",
+    "lat": 9.9602,
+    "lng": -67.6915,
+    "codEnt": "08",
+    "codMun": "02"
+  },
+  "0815": {
+    "name": "Municipio Miguel PeÃƒÂ±a",
+    "capital": "Miguel PeÃƒÂ±a",
+    "lat": 9.913,
+    "lng": -67.9695,
+    "codEnt": "08",
+    "codMun": "15"
+  },
+  "0101": {
+    "name": "Municipio Bolivariano Libertador",
+    "capital": "Caracas",
+    "lat": 10.4717,
+    "lng": -66.9764,
+    "codEnt": "01",
+    "codMun": "01"
+  },
+  "0310": {
+    "name": "Municipio JosÃƒÂ© Gregorio Monagas",
+    "capital": "Mapire",
+    "lat": 8.3526,
+    "lng": -65.0003,
+    "codEnt": "03",
+    "codMun": "10"
+  },
+  "0315": {
+    "name": "Municipio San JosÃƒÂ© de Guanipa",
+    "capital": "San JosÃƒÂ© De Guanipa (El Tigrito)",
+    "lat": 8.7989,
+    "lng": -63.8949,
+    "codEnt": "03",
+    "codMun": "15"
+  },
+  "0319": {
+    "name": "Municipio SimÃƒÂ³n RodrÃƒÂ­guez",
+    "capital": "El Tigre",
+    "lat": 8.7133,
+    "lng": -64.1466,
+    "codEnt": "03",
+    "codMun": "19"
+  },
+  "0307": {
+    "name": "Municipio Independencia",
+    "capital": "Soledad",
+    "lat": 8.4974,
+    "lng": -63.3069,
+    "codEnt": "03",
+    "codMun": "07"
+  },
+  "0320": {
+    "name": "Municipio Sir Arthur Mc Gregor",
+    "capital": "El Chaparro",
+    "lat": 9.1762,
+    "lng": -64.9676,
+    "codEnt": "03",
+    "codMun": "20"
+  },
+  "0317": {
+    "name": "Municipio Santa Ana",
+    "capital": "Santa Ana",
+    "lat": 9.257,
+    "lng": -64.6606,
+    "codEnt": "03",
+    "codMun": "17"
+  },
+  "0301": {
+    "name": "Municipio Anaco",
+    "capital": "Anaco",
+    "lat": 9.3109,
+    "lng": -64.4219,
+    "codEnt": "03",
+    "codMun": "01"
+  },
+  "0302": {
+    "name": "Municipio Aragua",
+    "capital": "Aragua de Barcelona",
+    "lat": 9.3956,
+    "lng": -64.7773,
+    "codEnt": "03",
+    "codMun": "02"
+  },
+  "0807": {
+    "name": "Municipio Los Guayos",
+    "capital": "Los Guayos",
+    "lat": 10.1459,
+    "lng": -67.9021,
+    "codEnt": "08",
+    "codMun": "07"
+  },
+  "0808": {
+    "name": "Municipio Miranda",
+    "capital": "Miranda",
+    "lat": 10.089,
+    "lng": -68.3837,
+    "codEnt": "08",
+    "codMun": "08"
+  },
+  "0809": {
+    "name": "Municipio MontalbÃƒÂ¡n",
+    "capital": "MontalbÃƒÂ¡n",
+    "lat": 10.2216,
+    "lng": -68.3203,
+    "codEnt": "08",
+    "codMun": "09"
+  },
+  "0814": {
+    "name": "Municipio Valencia",
+    "capital": "Valencia",
+    "lat": 10.1635,
+    "lng": -68.0067,
+    "codEnt": "08",
+    "codMun": "14"
+  },
+  "0806": {
+    "name": "Municipio Libertador",
+    "capital": "Tocuyito",
+    "lat": 10.0159,
+    "lng": -68.1773,
+    "codEnt": "08",
+    "codMun": "06"
+  },
+  "0803": {
+    "name": "Municipio Diego Ibarra",
+    "capital": "Mariara",
+    "lat": 10.2968,
+    "lng": -67.6904,
+    "codEnt": "08",
+    "codMun": "03"
+  },
+  "0810": {
+    "name": "Municipio Naguanagua",
+    "capital": "Naguanagua",
+    "lat": 10.3041,
+    "lng": -68.0593,
+    "codEnt": "08",
+    "codMun": "10"
+  },
+  "0812": {
+    "name": "Municipio San Diego",
+    "capital": "San Diego",
+    "lat": 10.278,
+    "lng": -67.9513,
+    "codEnt": "08",
+    "codMun": "12"
+  },
+  "0813": {
+    "name": "Municipio San JoaquÃƒÂ­n",
+    "capital": "San JoaquÃƒÂ­n",
+    "lat": 10.3116,
+    "lng": -67.7883,
+    "codEnt": "08",
+    "codMun": "13"
+  },
+  "0804": {
+    "name": "Municipio Guacara",
+    "capital": "Guacara",
+    "lat": 10.2743,
+    "lng": -67.8802,
+    "codEnt": "08",
+    "codMun": "04"
+  },
+  "0801": {
+    "name": "Municipio Bejuma",
+    "capital": "Bejuma",
+    "lat": 10.1879,
+    "lng": -68.2888,
+    "codEnt": "08",
+    "codMun": "01"
+  },
+  "0903": {
+    "name": "Municipio Girardot",
+    "capital": "El BaÃƒÂºl",
+    "lat": 8.7393,
+    "lng": -68.3328,
+    "codEnt": "09",
+    "codMun": "03"
+  },
+  "0906": {
+    "name": "Municipio Ricaurte",
+    "capital": "Libertad",
+    "lat": 9.2778,
+    "lng": -68.6773,
+    "codEnt": "09",
+    "codMun": "06"
+  },
+  "0907": {
+    "name": "Municipio RÃƒÂ³mulo Gallegos",
+    "capital": "Las Vegas",
+    "lat": 9.3176,
+    "lng": -68.4699,
+    "codEnt": "09",
+    "codMun": "07"
+  },
+  "0909": {
+    "name": "Municipio Tinaco",
+    "capital": "Tinaco",
+    "lat": 9.3898,
+    "lng": -68.379,
+    "codEnt": "09",
+    "codMun": "09"
+  },
+  "0905": {
+    "name": "Municipio Pao de San Juan Bautista",
+    "capital": "El Pao",
+    "lat": 9.1876,
+    "lng": -67.986,
+    "codEnt": "09",
+    "codMun": "05"
+  },
+  "0904": {
+    "name": "Municipio Lima Blanco",
+    "capital": "Macapo",
+    "lat": 9.8042,
+    "lng": -68.4071,
+    "codEnt": "09",
+    "codMun": "04"
+  },
+  "0908": {
+    "name": "Municipio Ezequiel Zamora",
+    "capital": "San Carlos",
+    "lat": 9.7865,
+    "lng": -68.6216,
+    "codEnt": "09",
+    "codMun": "08"
+  },
+  "0902": {
+    "name": "Municipio Tinaquillo",
+    "capital": "Tinaquillo",
+    "lat": 9.9732,
+    "lng": -68.2923,
+    "codEnt": "09",
+    "codMun": "02"
+  },
+  "0901": {
+    "name": "Municipio AnzoÃƒÂ¡tegui",
+    "capital": "Cojedes",
+    "lat": 9.6727,
+    "lng": -68.907,
+    "codEnt": "09",
+    "codMun": "01"
+  },
+  "0503": {
+    "name": "Municipio Girardot",
+    "capital": "Maracay",
+    "lat": 10.3707,
+    "lng": -67.6019,
+    "codEnt": "05",
+    "codMun": "03"
+  },
+  "0306": {
+    "name": "Municipio Guanta",
+    "capital": "Guanta",
+    "lat": 10.2417,
+    "lng": -64.5762,
+    "codEnt": "03",
+    "codMun": "06"
+  },
+  "0308": {
+    "name": "Municipio Juan Antonio Sotillo",
+    "capital": "Puerto La Cruz",
+    "lat": 10.1826,
+    "lng": -64.5861,
+    "codEnt": "03",
+    "codMun": "08"
+  },
+  "0321": {
+    "name": "Municipio TurÃƒÂ­stico Diego Bautista Urbaneja",
+    "capital": "LecherÃƒÂ­as",
+    "lat": 10.2006,
+    "lng": -64.7022,
+    "codEnt": "03",
+    "codMun": "21"
+  },
+  "0318": {
+    "name": "Municipio SimÃƒÂ³n BolÃƒÂ­var",
+    "capital": "Barcelona",
+    "lat": 9.8691,
+    "lng": -64.8206,
+    "codEnt": "03",
+    "codMun": "18"
+  },
+  "0316": {
+    "name": "Municipio San Juan de Capistrano",
+    "capital": "Boca de Uchire",
+    "lat": 10.0742,
+    "lng": -65.3989,
+    "codEnt": "03",
+    "codMun": "16"
+  },
+  "0511": {
+    "name": "Municipio Santiago MariÃƒÂ±o",
+    "capital": "Turmero",
+    "lat": 10.3914,
+    "lng": -67.4935,
+    "codEnt": "05",
+    "codMun": "11"
+  },
+  "0514": {
+    "name": "Municipio Tovar",
+    "capital": "La Colonia Tovar",
+    "lat": 10.4382,
+    "lng": -67.3436,
+    "codEnt": "05",
+    "codMun": "14"
+  },
+  "0518": {
+    "name": "Municipio Ocumare de La Costa de Oro",
+    "capital": "Ocumare de La Costa",
+    "lat": 10.4214,
+    "lng": -67.7825,
+    "codEnt": "05",
+    "codMun": "18"
+  },
+  "0811": {
+    "name": "Municipio Puerto Cabello",
+    "capital": "Puerto Cabello",
+    "lat": 10.4317,
+    "lng": -67.9943,
+    "codEnt": "08",
+    "codMun": "11"
+  },
+  "0805": {
+    "name": "Municipio Juan JosÃƒÂ© Mora",
+    "capital": "MorÃƒÂ³n",
+    "lat": 10.459,
+    "lng": -68.3015,
+    "codEnt": "08",
+    "codMun": "05"
+  }
+}

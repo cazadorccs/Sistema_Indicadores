@@ -1,0 +1,76 @@
+Código,Indicador,Eje / Subsistema,Frecuencia,Unidad de Medida,Meta Semanal,Valor Logrado / Reportado,Observaciones
+TV-001,Horas de transmisión televisiva semanales,Eje 1: Televisión,Diaria,Horas,168,168,Emisión continua 24/7 sin cortes
+TV-002,Operatividad de señal abierta de TV,Eje 1: Televisión,Diaria,%,99,99.4,Excelente sincronización de transmisores máster
+TV-003,Cobertura nacional de televisión,Eje 1: Televisión,Semanal,%,92,93.5,Cobertura efectiva en 23 estados y Dto. Capital
+TV-004,Señal TDA operativa de televisión,Eje 1: Televisión,Diaria,%,95,94.8,22 nodos TDA operativos a nivel nacional
+TV-005,Canales satelitales activos en grilla,Eje 1: Televisión,Diaria,Canales,14,14,Mux satelital público en Banda Ku completo
+TV-006,Programas producidos en televisión,Eje 1: Televisión,Semanal,Programas,40,42,Estreno de 2 nuevos programas informativos
+TV-007,Horas de programación propia en TV,Eje 1: Televisión,Semanal,Horas,110,115,Superó la meta de producción interna
+TV-008,Pases en vivo desde campo realizados,Eje 1: Televisión,Diaria,Pases,60,68,Despliegue extraordinario en jornadas de gobierno
+TV-009,Coberturas especiales y pautas de TV,Eje 1: Televisión,Semanal,Coberturas,15,18,Transmisiones presidenciales y ministeriales
+TV-014,Unidades móviles de TV operativas,Eje 1: Televisión,Diaria,Unidades,12,11,1 unidad en mantenimiento preventivo de generador
+TV-015,Cámaras de producción operativas,Eje 1: Televisión,Diaria,Cámaras,45,42,Ópticas y baterías operativas en 93%
+TV-016,Islas de edición operativas,Eje 1: Televisión,Diaria,Islas,28,26,Estaciones de edición no lineal 4K operativas
+TV-017,Plantas eléctricas de respaldo TV operativas,Eje 1: Televisión,Diaria,Plantas,14,13,Respaldo con autonomía diésel de 72 horas
+TV-018,Personal técnico de televisión desplegado,Eje 1: Televisión,Diaria,Personas,140,145,"Operadores de máster, camarógrafos y técnicos"
+TV-019,Personal de campo y reportería desplegado,Eje 1: Televisión,Diaria,Personas,65,70,Periodistas y camarógrafos en campo
+RAD-001,Horas de transmisión radial semanales,Eje 1: Radios,Diaria,Horas,168,168,Transmisión 24 horas ininterrumpida
+RAD-002,Operatividad de señal de transmisión radial,Eje 1: Radios,Diaria,%,98,98.2,Operatividad estable en circuitos AM/FM
+RAD-003,Municipios cubiertos por señal radial,Eje 1: Radios,Semanal,Municipios,280,290,Alcance territorial consolidado
+RAD-004,Rating estimado de audiencia radial,Eje 1: Radios,Semanal,Puntos,8,8.7,Pico en franja informativa matutina
+RAD-005,Señal radial en zonas prioritarias / afectadas,Eje 1: Radios,Diaria,%,90,93.5,Cobertura en ejes fronterizos y llanos
+RAD-006,Programas en vivo transmitidos en radio,Eje 1: Radios,Diaria,Programas,40,46,Espacios de opinión y participación popular
+RAD-007,Horas de programación propia en radio,Eje 1: Radios,Semanal,Horas,105,112,Contenido propio con talento nacional
+RAD-008,Boletines informativos emitidos,Eje 1: Radios,Diaria,Boletines,130,145,Emisión cada 30 minutos
+RAD-009,Microprogramas de contingencia / orientación,Eje 1: Radios,Diaria,Micros,25,32,Campañas preventivas y de concientización
+RAD-014,Transmisores de radio operativos,Eje 1: Radios,Diaria,Equipos,45,44,1 transmisor en mantenimiento en Zulia
+RAD-015,Potencia promedio de transmisión radial,Eje 1: Radios,Diaria,%,92,95,Niveles óptimos de modulación y potencia
+RAD-016,Plantas eléctricas de radio operativas,Eje 1: Radios,Diaria,Plantas,30,29,Revisión técnica periódica efectuada
+RAD-018,Tiempo acumulado de caída de señal radial,Eje 1: Radios,Diaria,Minutos,30,15,Rápida conmutación ante fallas eléctricas
+WEB-001,Visitas totales a portales web públicos,Eje 1: Digitales,Diaria,Visitas,1500000,1720000,Alto tráfico en cobertura de noticias
+WEB-002,Usuarios únicos en portales web,Eje 1: Digitales,Semanal,Usuarios,800000,895000,Crecimiento de audiencia internacional
+WEB-003,Páginas vistas en portales web,Eje 1: Digitales,Diaria,Páginas,3800000,4150000,Promedio de 4.6 páginas por usuario
+WEB-004,Tiempo promedio de sesión en web,Eje 1: Digitales,Semanal,Minutos,3.5,4.1,Mayor retención en artículos de fondo
+WEB-005,Tasa de rebote en portales web,Eje 1: Digitales,Semanal,%,42,36.8,Disminución positiva de la tasa de rebote
+WEB-006,Contenidos publicados en portales web,Eje 1: Digitales,Diaria,Artículos,600,695,Actualización en tiempo real 24/7
+WEB-007,Piezas multimedia publicadas en web,Eje 1: Digitales,Diaria,Piezas,200,248,"Galerías, videos e infografías interactivas"
+WEB-008,Boletines suscritos / suscriptores newsletter,Eje 1: Digitales,Mensual,Suscriptores,80000,87500,Crecimiento de suscriptores al resumen diario
+WEB-009,Usuarios registrados en plataformas digitales,Eje 1: Digitales,Mensual,Registros,300000,342000,Usuarios en plataforma OTT y comentarios
+WEB-010,Notificaciones push emitidas,Eje 1: Digitales,Diaria,Notificaciones,40,48,Alertas de noticias de última hora
+WEB-012,Nuevos suscriptores en la semana,Eje 1: Digitales,Semanal,Suscriptores,5000,6450,Impulso desde campañas de redes sociales
+WEB-013,Trámites digitales disponibles al público,Eje 1: Digitales,Mensual,Trámites,15,15,100% de trámites en línea operativos
+WEB-014,Solicitudes atendidas por SIVERIF,Eje 1: Digitales,Semanal,Solicitudes,150,185,Verificación de fuentes y usuarios
+WEB-015,Registros PNI gestionados en línea,Eje 1: Digitales,Mensual,Registros,50,68,Atención a Productores Nacionales Independientes
+WEB-018,Tasa de respuesta a solicitudes digitales,Eje 1: Digitales,Semanal,%,90,95.4,Respuesta en menos de 24 horas
+RED-001,Contenido total publicado en redes sociales,Eje 1: Redes,Diaria,Publicaciones,1200,1460,"Multiplataforma X, Instagram, TikTok, Facebook"
+RED-002,Videos cortos / Reels / TikTok publicados,Eje 1: Redes,Diaria,Videos,400,495,Formato vertical optimizado para móviles
+RED-004,Flyers e infografías publicados en redes,Eje 1: Redes,Diaria,Diseños,300,335,Material gráfico de alta resolución
+RED-005,Audios y podcasts digitalizados para redes,Eje 1: Redes,Semanal,Audios,90,115,Episodios y cápsulas en canales de audio
+RED-006,Transmisiones en vivo multiplataforma,Eje 1: Redes,Diaria,Transmisiones,70,88,Streaming simultáneo en 4 redes sociales
+RED-012,Creadores y activadores digitales activos,Eje 1: Redes,Semanal,Activadores,50,65,Red de activadores en todo el territorio
+RED-013,Vistas acumuladas en redes aliadas,Eje 1: Redes,Semanal,Vistas,2000000,2540000,Articulación con movimientos sociales
+RED-014,Articulación y republicación en medios,Eje 1: Redes,Semanal,Impactos,15,20,Rebote de piezas en portales aliados
+RED-016,Hashtags y tendencias monitorizadas,Eje 1: Redes,Diaria,Hashtags,35,44,Monitoreo de posicionamiento orgánico
+RED-017,Meta semanal de vistas digitales,Eje 1: Redes,Semanal,Vistas,10000000,10000000,Objetivo semanal fijado por Sala Situacional
+RED-018,Vistas totales logradas en redes,Eje 1: Redes,Semanal,Vistas,10000000,12450000,124.5% de cumplimiento de meta
+RED-019,Interacciones totales en redes,Eje 1: Redes,Semanal,Interacciones,900000,1120000,"Comentarios, compartidos y me gusta"
+RED-020,Impresiones netas en redes,Eje 1: Redes,Semanal,Impresiones,20000000,23500000,Alcance bruto total
+RED-021,Alcance orgánico en redes sociales,Eje 1: Redes,Semanal,Cuentas,8000000,9450000,80% del impacto generado de forma orgánica
+RED-022,Alcance publicitario / pagado en redes,Eje 1: Redes,Semanal,Cuentas,3000000,3650000,Campañas institucionales segmentadas
+RED-023,Seguidores totales consolidados,Eje 1: Redes,Semanal,Seguidores,4000000,4235000,Comunidad digital en expansión
+RED-024,Nuevos seguidores ganados en la semana,Eje 1: Redes,Semanal,Seguidores,40000,51200,Tasa de crecimiento semanal positiva
+RTV-001,Operatividad Nacional de señal TDA,Eje 2: REDTV,Diaria,%,95,96.5,Mux 1 y Mux 2 estables
+RTV-002,N° de Servicios de TV activos en TDA,Eje 2: REDTV,Diaria,Servicios,20,22,22 canales transmitiendo en HD y SD
+RTV-003,N° de Servicios de Radio activos en TDA,Eje 2: REDTV,Diaria,Servicios,16,16,16 radios públicas con audio digital TDA
+RTV-004,Estaciones TDA operativas a nivel nacional,Eje 2: REDTV,Diaria,Estaciones,28,28,Estaciones principales sin incidencias
+RTV-005,Cobertura geográfica nacional TDA,Eje 2: REDTV,Semanal,%,80,84.5,Cobertura en principales capitales y ejes
+RTV-006,Potencia de transmisión Banda Ku (Satelital),Eje 2: REDTV,Diaria,%,95,97.2,Enlace ascendente óptimo
+RTV-007,Canales satelitales reactivados,Eje 2: REDTV,Mensual,Canales,15,18,Reactivación de señales regionales
+RTV-008,Canales satelitales totales operativos,Eje 2: REDTV,Diaria,Canales,20,20,Totalidad de señales en telepuerto
+RTV-009,Disponibilidad de enlace satelital,Eje 2: REDTV,Diaria,%,99,99.6,Disponibilidad conforme a SLA satelital
+RTV-010,Tiempo de caída de señal satelital en minutos,Eje 2: REDTV,Diaria,Minutos,30,12,Afectación mínima por lluvia atenuada
+IMP-001,Ejemplares impresos y distribuidos,Eje 1: Impresos,Diaria,Ejemplares,50000,48500,Distribución nacional en quioscos y puntos
+IMP-002,Tiraje total (unidades físicas),Eje 1: Impresos,Diaria,Unidades,55000,52000,Rotativa operando al 95%
+IMP-003,Ejemplares en zonas afectadas,Eje 1: Impresos,Diaria,Ejemplares,8000,8900,Refuerzo en zonas priorizadas
+IMP-004,Porcentaje de cobertura territorial (municipios),Eje 1: Impresos,Semanal,%,75,78,Presencia en 245 municipios
+IMP-005,Número de suplementos especiales (contingencia),Eje 1: Impresos,Semanal,Unidades,3,4,Edición conmemorativa y balance

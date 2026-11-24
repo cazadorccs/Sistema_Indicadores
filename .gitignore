@@ -1,0 +1,60 @@
+# ==============================================================================
+# Git Ignore - Sistema de Gestión y Despliegue Operativo (SGDO - VSCC / MPPCI)
+# ==============================================================================
+
+# Dependencias
+node_modules/
+**/node_modules/
+
+# Compilación y artefactos
+dist/
+build/
+coverage/
+**/dist/
+**/build/
+**/coverage/
+
+# Archivos de Entorno y Secretos Criptográficos (CRÍTICO)
+.env
+.env.local
+.env.*.local
+*.secret
+*.key
+*.pem
+**/*.secret
+**/*.key
+**/*.pem
+backend/data/*.secret
+!backend/data/.gitkeep
+!.env.example
+!**/.env.example
+
+# Bases de Datos Locales SQLite (Persistencia en tiempo de ejecución)
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+**/*.db
+**/*.db-wal
+**/*.db-shm
+**/*.sqlite
+**/*.sqlite3
+
+# Logs y depuración
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+**/*.log
+
+# Archivos comprimidos de respaldo
+*.zip
+**/*.zip
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

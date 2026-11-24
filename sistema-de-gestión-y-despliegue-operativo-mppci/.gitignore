@@ -1,0 +1,31 @@
+# Dependencias
+node_modules/
+
+# Compilacion
+dist/
+build/
+coverage/
+
+# Variables de entorno y secretos
+.env
+.env.local
+.env.*.local
+*.secret
+backend/data/*.secret
+backend/data/*.db
+backend/data/*.db-wal
+backend/data/*.db-shm
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+npm-debug.log*
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Excepciones
+!backend/data/.gitkeep
+!.env.example
